@@ -69,12 +69,6 @@ dotnet publish --configuration Release /p:PublishProfile=Framework
 ```
 Output: `bin/Release/publish-framework/PEDependencyAnalyzer.exe`
 
-### Building All Variants
-You can build all variants at once using the provided batch file:
-```bash
-build-all.bat
-```
-
 Choose the appropriate build based on your requirements:
 - Use Native AOT for best performance in production
 - Use Single-file for easy distribution to end users
