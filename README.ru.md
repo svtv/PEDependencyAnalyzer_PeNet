@@ -70,12 +70,6 @@ dotnet publish --configuration Release /p:PublishProfile=Framework
 ```
 Результат: `bin/Release/publish-framework/PEDependencyAnalyzer.exe`
 
-### Сборка всех вариантов
-Вы можете собрать все варианты сразу, используя предоставленный пакетный файл:
-```bash
-build-all.bat
-```
-
 Выберите подходящий вариант сборки в зависимости от ваших требований:
 - Используйте Native AOT для лучшей производительности в продакшене
 - Используйте Single-file для простого распространения конечным пользователям
