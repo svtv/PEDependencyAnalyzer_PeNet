@@ -7,8 +7,6 @@
 
 *Read this in other languages: [Русский](README.ru.md)*
 
-Topics: `dotnet`, `windows`, `pe`, `binary-analysis`, `dependency-analysis`, `native`
-
 A command-line tool for analyzing and publishing dependencies of Windows PE files (executables and DLLs).
 
 ## Features
