@@ -5,8 +5,6 @@
 [![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)](https://github.com/yourusername/PEDependencyAnalyzer)
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/yourusername/PEDependencyAnalyzer/blob/main/README.ru.md)
 
-Topics: `dotnet`, `windows`, `pe`, `binary-analysis`, `dependency-analysis`, `native`
-
 Консольная утилита для анализа и публикации зависимостей Windows PE файлов (исполняемых файлов и DLL).
 
 ## Возможности
